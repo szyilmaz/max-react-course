@@ -8,6 +8,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
+https://github.com/mschwarzmueller/nextjs-course-code/blob/zz-react-summary-extra-files/data/dummy-data.js
+
+https://github.com/mschwarzmueller/nextjs-course-code/tree/f09d94f9a61700bc544a90edb53bdaaf3c4c7f8a/src
+
+https://github.com/mschwarzmueller/nextjs-course-code/blob/zz-react-summary-extra-files/styles/MainNavigation.module.css
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
